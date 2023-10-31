@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ddahal03
+- 👋 Hi, my name is Diwas Dahal
 - 👀 I am Interested In finding an internship 
 - 🌱 I’m currently A Junior At the University of Vermont
 - 💞️ 
