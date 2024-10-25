@@ -1,8 +1,6 @@
 - 👋 Hi, my name is Diwas Dahal
 - 👀 I am Interested In finding an internship 
-- 🌱 I’m currently A Junior At the University of Vermont
-- 💞️ 
-- 📫 You can reach me by Email: diwasdahal2003@gmail.com
+- 🌱 I’m currently A Senior enrolled in AMP At the University of Vermont
 
 <!---
 ddahal03/ddahal03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
